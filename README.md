@@ -2,7 +2,7 @@
 Read IP information of all equipments
 
 #### Purpose
--  Filter the Multi IP information from All Tester
+-  Filter the Multi IP information from Tester
 <img width="549" alt="image" src="https://github.com/user-attachments/assets/0fed8795-7460-4df4-a25e-a1f613c23398">
 
 #### Knowledge
